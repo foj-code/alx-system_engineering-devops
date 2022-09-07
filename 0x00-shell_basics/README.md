@@ -1,1 +1,1 @@
-change wdir to hdir
+Display current directory contents in a long format
